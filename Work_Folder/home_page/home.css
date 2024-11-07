@@ -1,0 +1,11 @@
+#image{
+display: block;
+margin: 0 auto;
+}
+#image2{
+    object-position: right;
+}
+
+body{
+    background-color: orange;
+}
