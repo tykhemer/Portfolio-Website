@@ -1,15 +1,23 @@
 
-#image{
-    width: 315px;
-    height: 375px;
-    object-position: top;
-}
-#image2{
-    width: 300px;
-    height: 250px;
-    object-position: right;
-}
-
 body{
-    background-image: "https://www.heroscreen.cc/2024/03/dragon-ball-goku-and-vegeta.html";
+    background-image: url(./images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    background-position: right;
+    height: 1450px;
+}
+h1{
+    font-size: 100px;
+    color: orange;
+}
+p{
+    font-size: 30px;
+    color:blue;
+}
+h2{
+    font-size: 60px;
+    color: orange;
+}
+li{
+    font-size: 40px;
 }

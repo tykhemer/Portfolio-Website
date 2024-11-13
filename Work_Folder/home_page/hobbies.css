@@ -1,4 +1,6 @@
 body{
-    background-color: orange;
-
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    background-position: right;
+    height: 1450px;
 }
