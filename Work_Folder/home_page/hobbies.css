@@ -26,21 +26,14 @@ li{
 #Zero{
     width: 550px;
     height: 170px;
-    position: relative;
-    top: -200px;
-    left: 1000px;
 }
 #Kirby{
     width: 150px;
     height: 100px;
-    position: relative;
-    top: -650px;
-    left: 600px;
+
 }
 #Fight{
     width: 245px;
     height: 100px;
-    position: relative;
-    top: -500px;
-    left: 600px;
+
 }
