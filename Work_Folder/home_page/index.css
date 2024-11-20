@@ -1,0 +1,23 @@
+
+body{
+    background-image: url(./images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    height: auto;
+    background-size:cover;
+}
+h1{
+    font-size: 100px;
+    color: orange;
+}
+p{
+    font-size: 30px;
+    color:blue;
+}
+h2{
+    font-size: 60px;
+    color: orange;
+}
+li{
+    font-size: 40px;
+}
