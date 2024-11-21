@@ -41,12 +41,15 @@ li {
   border: 15px solid red;
   padding: 50px;
   margin: 20px;
+  animation-name: slide;
   animation-duration: 3s;
 }
 @keyframes slide {
     0% {
     }
+    50%{
+        transform:(180deg);
+    }
     100%{
-    transform: rotate (360deg);
     }
 }
