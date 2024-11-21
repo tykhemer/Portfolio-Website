@@ -9,15 +9,19 @@ body{
 h1{
     font-size: 100px;
     color: orange;
+    font-family: 'Times New Roman', Times, serif;
 }
 p{
     font-size: 30px;
     color:red;
+    font-family: 'Times New Roman', Times, serif;
 }
 h2{
     font-size: 60px;
     color: orange;
+    font-family: 'Times New Roman', Times, serif;
 }
 li{
     font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
 }
