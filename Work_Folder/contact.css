@@ -26,7 +26,14 @@ p{
     width: 25%;
     text-align: left;
     transition: width 1s;
+    background-color: red;
 }
 div:hover{
     width: 800px;
+}
+#gmail{
+    font-size: 60px;
+}
+#gmail::after{
+    
 }
