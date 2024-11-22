@@ -36,20 +36,18 @@ li {
   width: 245px;
   height: 100px;
 }
-.games {
-  width: 800px;
+.games{
   border: 15px solid red;
   padding: 50px;
   margin: 20px;
-  animation-name: slide;
-  animation-duration: 3s;
+animation-name: slide;
+animation-duration: 3s;
 }
-  @keyframes slide {
-    0% {
-        transform: translatex(-500px);
-    }
-    100%{
-        transform: translatex(0px);
-    }
+@keyframes slide {
+  0% {
+      transform: translatex(-500px);
+  }
+  100%{
+      transform: translatex(0px);
+  }
 }
-

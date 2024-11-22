@@ -18,6 +18,15 @@ p{
 
 }
 .image{
-        width: 200px;
-        height: 125px;
+        width: 300px;
+        height: 250px;
+}
+.contact{
+    border: 12px solid red;
+    width: 25%;
+    text-align: left;
+    transition: width 1s;
+}
+div:hover{
+    width: 800px;
 }
