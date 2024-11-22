@@ -35,5 +35,6 @@ div:hover{
     font-size: 60px;
 }
 #gmail::after{
-    
+    content: "tykhemer@gmail.com";
+    display: block;
 }
