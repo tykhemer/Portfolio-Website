@@ -12,17 +12,17 @@ h1 {
 }
 p {
   font-size: 30px;
-  color: red;
+  color: maroon;
   text-align: center;
 }
 h2 {
   font-size: 60px;
-  color: red;
+  color: maroon;
 }
 li {
   font-size: 40px;
   text-align: center;
-  color: red;
+  color: maroon;
 }
 #Zero {
   width: 550px;
@@ -37,7 +37,7 @@ li {
   height: 100px;
 }
 .games{
-  border: 15px solid red;
+  border: 15px solid maroon;
   padding: 50px;
   margin: 20px;
 animation-name: slide;

@@ -14,7 +14,7 @@ h1{
 }
 p{
     font-size: 30px;
-    color:red;
+    color:maroon;
 
 }
 h2{
@@ -28,7 +28,7 @@ li{
 }
 div{
     width: 800px;
-    border: 15px solid red;
+    border: 15px solid maroon;
     padding: 50px;
     margin: 20px;
 }
