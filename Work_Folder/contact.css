@@ -21,6 +21,9 @@ p{
         width: 300px;
         height: 250px;
 }
+li{
+    list-style: none;
+}
 .contact{
     border: 12px solid maroon;
     width: 25%;
@@ -35,11 +38,4 @@ p{
 }
 .contact:hover{
     width: 800px;
-}
-#gmail{
-    font-size: 60px;
-}
-#gmail::after{
-    content: "tykhemer@gmail.com";
-    display: block;
 }
