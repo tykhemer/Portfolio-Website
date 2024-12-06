@@ -1,5 +1,5 @@
 body {
-  background-image: url(./images/background.jpg);
+  background-image: url(./images/spiritbombbg.gif);
   background-repeat: no-repeat;
   background-position: right;
   height: auto;
@@ -8,21 +8,21 @@ body {
 }
 h1 {
   font-size: 90px;
-  color: orange;
+  color: maroon;
 }
 p {
   font-size: 30px;
-  color: red;
-  text-align: center;
+  color: maroon;
+  text-align: left;
 }
 h2 {
   font-size: 60px;
-  color: red;
+  color: maroon;
 }
 li {
   font-size: 40px;
-  text-align: center;
-  color: red;
+  text-align: left;
+  color: maroon;
 }
 #Zero {
   width: 550px;
@@ -37,7 +37,7 @@ li {
   height: 100px;
 }
 .games{
-  border: 15px solid red;
+  border: 15px solid maroon;
   padding: 50px;
   margin: 20px;
 animation-name: slide;

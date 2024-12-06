@@ -1,5 +1,5 @@
 body{
-    background-image: url(./images/background.jpg);
+    background-image: url(./images/background3.png);
     background-repeat: no-repeat;
     background-position: right;
     height: auto;
@@ -9,32 +9,33 @@ body{
 }
 h1{
     font-size: 100px;
-    color: orange;
+    color: maroon;
 
 }
 p{
     font-size: 30px;
-    color:red;
+    color:maroon;
 
 }
 .image{
         width: 300px;
         height: 250px;
 }
+li{
+    list-style: none;
+}
 .contact{
-    border: 12px solid red;
+    border: 12px solid maroon;
     width: 25%;
     text-align: left;
     transition: width 1s;
-    background-color: red;
+    background-color: maroon;
 }
-div:hover{
+.navbar{
+    align-items:center;
+    text-align: left;
+    font-size: 25px;
+}
+.contact:hover{
     width: 800px;
-}
-#gmail{
-    font-size: 60px;
-}
-#gmail::after{
-    content: "tykhemer@gmail.com";
-    display: block;
 }
